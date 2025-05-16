@@ -63,10 +63,6 @@ npm run build
 3. Gemini processes the image using OCR and extracts structured data
 4. The application receives the structured JSON data and displays it to the user
 
-## 📄 License
-
-[MIT License](LICENSE)
-
 ## 👨‍💻 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
